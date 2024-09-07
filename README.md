@@ -1,5 +1,5 @@
 OPEN VALORANT!!!
 
-Usage: hookloader.exe SkinChanger.dll no CMD or drag leks.dll into hookloader.exe
+Usage: hookloader.exe SkinChanger.dll no CMD or drag sc9.dll into hookloader.exe
 
-Como usar: hookloader.exe SkinChanger.dll no CMD ou arraste leks.dll para hookloader.exe
+Como usar: hookloader.exe SkinChanger.dll no CMD ou arraste sc9.dll para hookloader.exe
