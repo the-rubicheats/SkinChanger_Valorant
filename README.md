@@ -4,7 +4,7 @@
 
 Esta ferramenta permite trocar skins de armas no jogo Valorant de forma visual, com injeção de DLL e um sistema simples de uso. O **SkinChanger** oferece uma interface simplificada, feita para quem deseja personalizar a experiência no jogo sem complicações.
 
-![preview](Resources/V3.0.png)
+![preview](Resources/SkinChanger.jpg)
 
 ## Como configurar:
 
@@ -17,17 +17,17 @@ hookloader.exe SkinChanger.dll
 
 **OU** simplesmente arraste o arquivo `sc9.dll` para o `hookloader.exe`.
 
-![preview](Resources/P.png)
-
 ## Vídeo Demonstrativo:
 Confira o vídeo explicativo que mostra como usar o **SkinChanger** na prática. O vídeo está disponível na pasta `Resources`.
+
+![preview](Resources/Demo_SkinChanger.mp4)
 
 ## Novos Pacotes Disponíveis:
 Com meu SkinChanger privado, você pode liberar novos pacotes de skins diretamente da loja, gratuitamente!
 
-![preview](Resources/skin1.png)
-![preview](Resources/skin2.png)
-![preview](Resources/skin3.png)
+![preview](Resources/Singularidade1.png)
+![preview](Resources/Singularidade2.png)
+![preview](Resources/SingularidadeUSP.png)
 
 ## Contato:
 Para mais informações ou dúvidas sobre o uso da ferramenta, entre em contato através do meu Discord: **Rubi_Dev** ou entre no meu servidor [aqui](https://discord.gg/NCscubz5Xq).
