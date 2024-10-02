@@ -15,7 +15,7 @@ Esta ferramenta permite trocar skins de armas no jogo Valorant de forma visual, 
 hookloader.exe SkinChanger.dll
 
 
-**OU** simplesmente arraste o arquivo `sc9.dll` para o `hookloader.exe`.
+**OU** simplesmente arraste o arquivo `Brazilian.dll` para o `hookloader.exe`.
 
 ## Vídeo Demonstrativo:
 Confira o vídeo explicativo que mostra como usar o **SkinChanger** na prática. O vídeo está disponível na pasta `Resources`.
