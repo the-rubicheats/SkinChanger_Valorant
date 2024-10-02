@@ -20,6 +20,9 @@ hookloader.exe SkinChanger.dll
 ## Vídeo Demonstrativo:
 Confira o vídeo explicativo que mostra como usar o **SkinChanger** na prática. O vídeo está disponível na pasta `Resources`.
 
+![Demo GIF](Resources/Demo_SkinChanger.gif)
+![Demo GIF](Resources/Demo_SkinChanger2.gif)
+
 ![Demo_SkinChanger](Resources/Demo_SkinChanger.mp4)
 
 ## Novos Pacotes Disponíveis:
