@@ -21,7 +21,6 @@ hookloader.exe SkinChanger.dll
 Confira o vídeo explicativo que mostra como usar o **SkinChanger** na prática. O vídeo está disponível na pasta `Resources`.
 
 ![Demo GIF](Resources/Demo_SkinChanger.gif)
-![Demo GIF](Resources/Demo_SkinChanger2.gif)
 
 ![Demo_SkinChanger](Resources/Demo_SkinChanger.mp4)
 
@@ -34,6 +33,8 @@ Com meu SkinChanger privado, você pode liberar novos pacotes de skins diretamen
 
 ## Contato:
 Para mais informações ou dúvidas sobre o uso da ferramenta, entre em contato através do meu Discord: **Rubi_Dev** ou entre no meu servidor [aqui](https://discord.gg/NCscubz5Xq).
+
+![Demo GIF](Resources/Demo_SkinChanger2.gif)
 
 ---
 
