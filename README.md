@@ -1,6 +1,6 @@
 # VALORANT SKINCHANGER
 
-**ATENÇÃO:** Esta versão disponível no GitHub está desatualizada e deve ser usada por sua conta e risco. Caso deseje ter acesso à minha build privada com injetor próprio e DLLs atualizadas, entre em contato pelo meu e-mail: **rubi_dev@vendacheats.com** ou acesse o site: [chat.vendacheats.com](https://chat.vendacheats.com), onde você encontrará um chat automático para adquirir qualquer um dos meus produtos privados.
+**ATENÇÃO:** Esta versão disponível no GitHub está desatualizada e deve ser usada por sua conta e risco. Caso deseje ter acesso à minha build privada com injetor próprio e DLLs atualizadas, entre em contato pelo meu e-mail: **rubi_dev@vendacheats.com** ou acesse o site: [chat.vendacheats.com](https://chat.vendacheats.com)
 
 Esta ferramenta permite trocar skins de armas no jogo Valorant de forma visual, com injeção de DLL e um sistema simples de uso. O **SkinChanger** oferece uma interface simplificada, feita para quem deseja personalizar a experiência no jogo sem complicações.
 
