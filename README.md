@@ -32,7 +32,7 @@ Com meu SkinChanger privado, você pode liberar novos pacotes de skins diretamen
 ![preview](Resources/SingularidadeUSP.png)
 
 ## Contato:
-Para mais informações ou dúvidas sobre o uso da ferramenta, envie um e-mail para **rubi_dev@vendacheats.com** ou acesse o site: [chat.vendacheats.com](https://chat.vendacheats.com) para iniciar um chat automático e adquirir qualquer produto privado.
+Para mais informações ou dúvidas sobre o uso da ferramenta, envie um e-mail para **rubi_dev@vendacheats.com** ou acesse o site: [chat.vendacheats.com](https://chat.vendacheats.com)
 
 ![Demo GIF](Resources/Demo_SkinChanger2.gif)
 
