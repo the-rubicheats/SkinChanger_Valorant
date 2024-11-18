@@ -22,8 +22,6 @@ Confira o vídeo explicativo que mostra como usar o **SkinChanger** na prática.
 
 ![Demo GIF](Resources/Demo_SkinChanger.gif)
 
-![Demo_SkinChanger](Resources/Demo_SkinChanger.mp4)
-
 ## Novos Pacotes Disponíveis:
 Com meu SkinChanger privado, você pode liberar novos pacotes de skins diretamente da loja, gratuitamente!
 
